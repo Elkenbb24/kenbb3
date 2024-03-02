@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "38391041426",
+    "project_id": "kenbbcorreo",
+    "storage_bucket": "kenbbcorreo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38391041426:android:9ac6eaaca29712dae3454b",
+        "android_client_info": {
+          "package_name": "com.ken_alamilla.kenbbcorreo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtOKctX_-wCHecuYbs1EpdyTKKmw2sATI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
